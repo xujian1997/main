@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student in Geophysics
+role: Postdoc in Geophysics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Science and Technology of China
+  - name: McGill University
     url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:xjustc@mail.ustc.edu.cn'
+    url: 'mailto:jian.xu2@mail.mcgill.ca'
     label: E-mail Me
   - icon: brands/x
     url: ''
@@ -49,19 +49,19 @@ profiles:
 interests:
   - Induced Seismicity
   - Seismology
-  - Ambient noise Tomography
+  - Time-lapse velocity structure
 
 education:
   - area: Ph.D. 
     institution: University of Science and Technology of China
     date_start: 2021-09-01
-    date_end: ''
+    date_end: 2025-07-01
     summary: |
 
   - area: Visiting Ph.D. student
     institution: McGill University
-    date_start: 2023-11-16
-    date_end: ''
+    date_start: 2023-11-17
+    date_end: 2024-11-16
     summary: |
 
   - area: M.S. 
@@ -158,4 +158,4 @@ awards:
 ---
 
 ## About Me
-Jian is a Ph.D. candidate at the University of Science and Technology of China, specializing in Geophysics. His research focuses on induced seismicity related to hydraulic fracturing in the Changning shale gas field, China. His research interests include source attributes of induced earthquakes, ambient noise tomography for reservoir characterization, and in-situ Vp/Vs estimation. Currently, he is a visiting Ph.D. student at McGill University, where he is expanding his technical expertise.
+Jian is now a postdoc at McGill university in Montreal, Canada and received his Ph.D. at the University of Science and Technology of China, specializing in Geophysics. His research focuses on induced seismicity related to hydraulic fracturing in both southern Sichuan basin, China and Wsetern Canada Sedimentary Basin. His research interests include source propertes of induced earthquakes, ambient noise tomography for reservoir characterization, and time-lapse in-situ Vp/Vs estimation. 
