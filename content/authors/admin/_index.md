@@ -158,4 +158,4 @@ awards:
 ---
 
 ## About Me
-Jian is now a postdoc at McGill university in Montreal, Canada and received his Ph.D. at the University of Science and Technology of China, specializing in Geophysics. His research focuses on induced seismicity related to hydraulic fracturing in both southern Sichuan basin, China and Wsetern Canada Sedimentary Basin. His research interests include source propertes of induced earthquakes, ambient noise tomography for reservoir characterization, and time-lapse in-situ Vp/Vs estimation. 
+I'm now a postdoc at McGill university in Montreal, Canada and received my Ph.D. at the University of Science and Technology of China, specializing in Geophysics. His research focuses on induced seismicity related to hydraulic fracturing in both southern Sichuan basin, China and Wsetern Canada Sedimentary Basin. His research interests include source propertes of induced earthquakes, ambient noise tomography for reservoir characterization, and time-lapse in-situ Vp/Vs estimation. 
