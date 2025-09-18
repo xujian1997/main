@@ -158,4 +158,4 @@ awards:
 ---
 
 ## About Me
-I'm now a postdoc at McGill university in Montreal, Canada and received my Ph.D. at the University of Science and Technology of China, specializing in Geophysics. His research focuses on induced seismicity related to hydraulic fracturing in both southern Sichuan basin, China and Wsetern Canada Sedimentary Basin. His research interests include source propertes of induced earthquakes, ambient noise tomography for reservoir characterization, and time-lapse in-situ Vp/Vs estimation. 
+I am a Postdoctoral Researcher in Geophysics at McGill University in Montreal, Canada. I earned my Ph.D. in Geophysics from the University of Science and Technology of China (USTC) in 2025. My research focuses on induced seismicity related to hydraulic fracturing in the southern Sichuan Basin (China) and the Western Canada Sedimentary Basin (WCSB), with interests in earthquake source properties, ambient-noise tomography for reservoir characterization, and time-lapse in situ Vp/Vs estimation.
